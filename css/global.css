@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+.full {
+    margin-left: 165px;
+    margin-right: 165px;
+    width: 1440px;
+}
+
+.topo {
+    margin: 64px 325px 63px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links a {
+    margin-left: 42px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #33323D;
+}
+
+
+
+
+/* Parte interessado em fazer projetos comigo?*/
+
+.baixo {
+    display: flex;
+    margin-top: 149px;
+    justify-content: space-between;
+    margin-bottom: 150px;
+    width: 1110px;
+}
+
+.baixo h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.baixo-contato {
+    border: 1px #33323D solid;
+    text-align: center;
+    width: 168px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.baixo-contato a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+}
+
+
+
+
+
+
+/*botao com borda preta simples**/
+
+.botao {
+    width: 175px;
+    height: 48px;
+    border: 1.2px solid #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.botao a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #33323D;
+}
+
+/***/
+
+
+footer {
+    background-color: #33323D;
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    margin-left: -200px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    justify-content: space-between;
+    
+    
+}
+
+footer a {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer1 {
+    margin-left: 165px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.footer1 a {
+    margin-left: 42px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
+.footer2 {
+    margin-right: 165px;
+}
+
+.footer2 img {
+    margin-right: 28px;
+}
+
+a:hover {
+    color: #5FB4A2;
+}
+
+
+
+/* Linha horizontal  **/
+
+
+/* Seção de mudar entre projetos */
+
+
+
+.linha2 {
+    border: 1px solid #33323D;
+    height: 0.1px;
+    width: 1110px;
+    margin-top: 48px;
+    opacity: 0.15;
+}
+
+.nomes {
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+}
+
+.nomes h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+}
+
+.esq {
+    display: flex;
+    margin-top: 32px;
+    align-items: center;
+}
+
+.esq-infos {
+    margin-left: 32px;
+}
+
+.dir-infos {
+    margin-right: 32px;
+}
+
+.esq-infos h2 {
+    margin-bottom: 5px;
+}
+
+.dir {
+    display: flex;
+    margin-top: 32px;
+    align-items: center;
+    text-align: center;
+}
+
+.dir-infos h2 {
+    margin-bottom: 5px;
+}
+
+.nomes a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+

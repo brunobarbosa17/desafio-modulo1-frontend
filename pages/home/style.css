@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.full {
+    margin-left: 165px;
+    margin-right: 165px;
+    width: 1440px;
+}
+
+.topo {
+    margin: 64px 325px 63px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links a {
+    margin-left: 42px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #33323D;
+}
+
+
+.inicio {
+    width: 1110px;
+    height: 600px;
+    background-image: url('/assets/home/image-homepage-hero.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.inicio h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+    color: #33323D;
+    margin-bottom: 53px;
+    padding: 56px 28px 0px 27px;
+}
+
+.inicio-bottom {
+    position: absolute;
+    margin-top: 243px;
+    background-color: white;
+    width: 445px;
+    height: 357px;
+
+}
+
+.sobre-mim {
+    background-color: #203A4C;
+    width: 200px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sobre-mim img {
+    width: 16px;
+    height: 12px;
+    margin-right: 16px;
+}
+
+.sobre-mim a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.sobre-mim-baixo {
+    display: flex;
+    margin-top: 150px;
+
+}
+
+.sobre-mim-baixo-img img{
+    width: 540px;
+    height: 600px;
+}
+
+
+.sobre-mim-baixo-info {
+    width: 430px;
+    height: 502px;
+    margin-left: 140px;
+    
+}
+
+.sobre-mim-baixo-info h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin-bottom: 28px;
+}
+
+.sobre-mim-baixo-info p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-bottom: 24px;
+}
+
+.ir-para-portfolio {
+    width: 204px;
+    border: 1px #33323D solid;
+    text-align: center;
+    padding: 17px 28px;
+    margin-left: 113px;
+    
+}
+
+.ir-para-portfolio a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #33323D;
+}
+
+/* .baixo {
+    display: flex;
+    margin-top: 149px;
+    justify-content: space-between;
+    margin-bottom: 150px;
+    width: 1110px;
+}
+
+.baixo h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.baixo-contato {
+    border: 1px #33323D solid;
+    text-align: center;
+    width: 168px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.baixo-contato a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+} */
+
+footer {
+    background-color: #33323D;
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    margin-left: -200px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+footer a {
+    color: white;
+}
+
+.footer1 {
+    margin-left: 165px;
+}
+
+.footer1 a {
+    margin-left: 42px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
+.footer2 {
+    margin-right: 165px;
+}
+
+.footer2 img {
+    margin-right: 28px;
+}
+
+a:hover {
+    color: #5FB4A2;
+}

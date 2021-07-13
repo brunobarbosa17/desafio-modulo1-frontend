@@ -1,0 +1,124 @@
+.linha1 {
+    margin-top: 94px;
+    border: 1px #33323D solid;
+    opacity: 0.15;
+    height: 0.1px;
+    width: 1110px;
+    margin-bottom: 48px;
+}
+
+.conteudo-inicio {
+    display: flex;
+    margin-top: 44px;
+}
+
+h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.conteudo-inicio p {
+    width: 635px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-bottom: 54px;
+}
+
+.direita {
+    display: flex;
+    flex-direction: column;
+    margin-left: 125px;
+}
+
+.icons a {
+    margin-right: 15px;
+}
+
+.linha2 {
+    border: 1px #33323D solid;
+    opacity: 0.15;
+    height: 0.1px;
+    width: 1110px;
+
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+.contato {
+    display: flex;
+    margin-bottom: 109px;
+}
+
+.title-contato {
+    margin-right: 125px;
+    width: 350px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+}
+
+.form label {
+    margin-bottom: 8px;
+}
+
+label {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+input {
+    background: #E6E6E7;
+    padding-left: 8px;
+    width: 635px;
+    height: 40px;
+    border: none;
+    
+}
+
+.msg {
+    height: 96px;
+}
+
+.enviar {
+    background-color: #203A4C;
+    width: 200px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.enviar a {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}

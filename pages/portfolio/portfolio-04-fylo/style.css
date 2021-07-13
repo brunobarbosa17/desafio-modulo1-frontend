@@ -1,0 +1,106 @@
+h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.img-background {
+    background-image: url('/assets/portfolio/fylo/image-fylo-hero.jpg');
+    background-size: contain;
+    width: 1110px;
+    height: 500px;
+}
+
+.infos {
+    display: flex;
+    margin-top: 115px;
+}
+
+.linha-cima {
+    border: 1px solid #33323D;
+    height: 0.1px;
+    width: 350px;
+    margin-bottom: 48px;
+    opacity: 0.15;
+}
+
+h2 {
+    margin-bottom: 29px;
+}
+
+.esquerda p:nth-child(3) {
+    width: 350px;
+    margin-bottom: 53px;
+}
+
+u {
+    text-decoration: underline;
+}
+
+.verde {
+    color: #5FB4A2;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 16px;
+}
+
+.botao {
+    margin-top: 32px;
+}
+
+
+.direita {
+    display: flex;
+    flex-direction: column;
+    margin-left: 125px;
+    
+}
+
+.direita h2 {
+    font-weight: normal;
+}
+
+.direita p {
+    width: 635px;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.direita img {
+    width: 635px;
+    height: 400px;
+}
+
+.direita img:nth-child(2) {
+    margin-bottom: 32px;
+}
+
+.direita img:nth-child(3) {
+    margin-bottom: 64px;
+}
+
+.linha-baixo {
+    border: 1px solid #33323D;
+    height: 0.1px;
+    width: 350px;
+    margin-top: 48px;
+    opacity: 0.15;
+}

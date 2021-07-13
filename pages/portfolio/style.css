@@ -1,0 +1,164 @@
+h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.manage {
+    display: flex;
+}
+
+.manage img {
+    width: 540px;
+    height: 500px;
+    margin-right: 125px;
+}
+
+.manage-info {
+    display: flex;
+    flex-direction: column;
+    margin-right: 213px;
+}
+
+.manage-info h2 {
+    margin-bottom: 28px;
+}
+
+
+.manage-info p {
+    margin-bottom: 54px;
+    margin-right: 213px;
+}
+
+.linha-cima {
+    border: 1px solid #33323D;
+    height: 0.1px;
+    margin-bottom: 103px;
+
+    opacity: 0.15;
+}
+
+.linha {
+    border: 1px solid #33323D;
+    height: 0.1px;
+    margin-left: 89px;
+    position: relative;
+    margin-top: 153px;
+
+    opacity: 0.15;
+}
+
+
+/*Bookmark*/
+
+.bookmark {
+    margin-top: 80px;
+    display: flex;
+}
+
+.linha-book {
+    margin-bottom: 103px;
+    border: 1px #33323D solid;
+    opacity: 0.15;
+    height: 0.1px;
+    width: 350px;
+    margin-left: 89px;
+
+}
+
+.bookmark img {
+    width: 540px;
+    height: 500px;
+}
+
+.bookmark-info {
+    display: flex;
+    flex-direction: column;
+    margin-right: 213px;
+}
+
+.bookmark-info h2 {
+    margin-bottom: 54px;
+}
+
+.bookmark-info p {
+    width: 350px;
+    height: 120px;
+    margin-bottom: 54px;
+}
+
+
+/* Insure */
+
+.insure {
+    margin-top: 80px;
+    display: flex;
+}
+
+.insure img {
+    width: 540px;
+    height: 500px;
+
+}
+
+.insure-info {
+    margin-left: 125px;
+}
+
+.insure-info h2 {
+    margin-top: 103px;
+    margin-bottom: 28px;
+
+}
+
+.insure-info p {
+    width: 350px;
+    height: 150px;
+    margin-bottom: 24px;
+}
+
+.linha-insure {
+    border: 1px #33323D solid;
+    opacity: 0.15;
+    height: 0.1px;
+    width: 350px;
+    margin-left: 89px;
+}
+
+.linha-insure2 {
+    margin-top: 103px;
+    border: 1px #33323D solid;
+    opacity: 0.15;
+    height: 0.1px;
+    width: 350px;
+    margin-left: 89px;
+}
+
+.linha-bookmark2 {
+    margin-top: 103px;
+    border: 1px #33323D solid;
+    opacity: 0.15;
+    height: 0.1px;
+    width: 350px;
+    margin-left: 89px;
+}
+
+.fylo {
+    margin-top: 150px;
+}
+
