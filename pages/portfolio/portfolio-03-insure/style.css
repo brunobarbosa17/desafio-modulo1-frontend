@@ -20,7 +20,7 @@ p {
 }
 
 .img-background {
-    background-image: url('/assets/portfolio/insure/image-insure-hero.jpg');
+    background-image: url('../../../assets/portfolio/insure/image-insure-hero.jpg');
     background-size: contain;
     width: 1110px;
     height: 500px;
